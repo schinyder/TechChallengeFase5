@@ -81,6 +81,9 @@ Esses foram alguns dos aspectos considerados pela equipe durante a fase inicial 
 
 ## 📝Consultando a Documentação da API
 Acessa o arquivo swagger da aplicação pelo link: [api-docs.json](https://github.com/schinyder/TechChallengeFase5/tree/main/SwaggerDocs)
+![swagger.png](https://github.com/schinyder/TechChallengeFase5/blob/main/swagger.png)
+
+
 
 Basta colar o documento no site: [Swagger Editor](https://editor.swagger.io/)
 
