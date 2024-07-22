@@ -38,7 +38,7 @@ Importante: para consultar todas as opções de APIs, favor acessar a collection
 
 - [Tech challenge 5 - Ecommerce.postman_collection.json](https://github.com/jhonnysdo/Lojinha/blob/main/Tech%20challenge%205%20-%20Ecommerce.postman_collection.json)
 
-![Postman Collection TechChallenge5.png](https://github.com/jhonnysdo/Lojinha/blob/main/Postman%20Collection%20TechChallenge5.png?raw=true)
+![Postman Collection TechChallenge5.png](https://github.com/schinyder/TechChallengeFase5/blob/main/Postman%20Collection%20TechChallenge5.png?raw=true)
 
 
 ## 🔭Tecnologias e ferramentas utilizadas:
@@ -64,7 +64,7 @@ Importante: para consultar todas as opções de APIs, favor acessar a collection
 ## 📐Diagrama de arquitetura:
 ![ArchitectureDiagram.png](https://github.com/schinyder/TechChallengeFase5/blob/main/ArchitectureDiagram.png)
 
-## novo2
+
 
 
 ## 🎯 Desafios
