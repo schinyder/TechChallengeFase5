@@ -1,5 +1,5 @@
 [![Java CI with Maven](https://github.com/jhonnysdo/Lojinha/actions/workflows/testes.yml/badge.svg)](https://github.com/jhonnysdo/Lojinha/actions/workflows/testes.yml)
-# E-Commerce System com Spring Boot e Microserviços
+# ECommerce System com Spring Boot e Microserviços
 
 Este projeto é um sistema de e-commerce desenvolvido com o framework Spring Boot e arquitetura de microserviços. Ele permite aos usuários realizar operações como cadastro, login, gestão de itens, manipulação de carrinho de compras e simulação de pagamento.
 
@@ -62,7 +62,7 @@ Importante: para consultar todas as opções de APIs, favor acessar a collection
 - Pagamento (Simulação): Serviço para simular o processo de pagamento.
 
 ## 📐Diagrama de arquitetura:
-![ArchitectureDiagram.png](https://github.com/jhonnysdo/Lojinha/blob/main/ArchitectureDiagram.png?raw=true)
+![ArchitectureDiagram.png](https://raw.githubusercontent.com/schinyder/TechChallengeFase5/main/ArchitectureDiagram.png?token=GHSAT0AAAAAACVFLWN3N7ZZMSHKA5KCZQSWZU6XLGA)
 
 
 
@@ -123,6 +123,6 @@ Basta importar esse arquivo para o seu ambiente do Postman e começar a usar as 
 
 ## Coverage dos testes:
 
-![CovarageTechChallenge5.png](https://github.com/jhonnysdo/Lojinha/blob/main/CovarageTechChallenge5.png?raw=true)
+![CovarageTechChallenge5.png](https://github.com/schinyder/TechChallengeFase5/blob/main/CovarageTechChallenge5.png?raw=true?raw=true)
 
 
