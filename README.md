@@ -36,7 +36,7 @@ curl --location 'http://localhost:8083/pagamentos/formas-pagamento'
 
 Importante: para consultar todas as opções de APIs, favor acessar a collection POSTMAN disponibilizada:
 
-- [Tech challenge 5 - Ecommerce.postman_collection.json](https://github.com/jhonnysdo/Lojinha/blob/main/Tech%20challenge%205%20-%20Ecommerce.postman_collection.json)
+- [Tech challenge 5 - Ecommerce.postman_collection.json](https://github.com/schinyder/TechChallengeFase5/blob/main/Tech%20challenge%205%20-%20Ecommerce.postman_collection.json)
 
 ![Postman Collection TechChallenge5.png](https://github.com/schinyder/TechChallengeFase5/blob/main/Postman%20Collection%20TechChallenge5.png?raw=true)
 
@@ -80,7 +80,7 @@ Testes e simulação de requisições HTTP: Para testar nossas APIs, decidimos u
 Esses foram alguns dos aspectos considerados pela equipe durante a fase inicial do projeto. A partir dessas definições, realizamos reuniões de alinhamento para planejar e coordenar nossas ações, garantindo uma execução eficiente e coerente com nossos objetivos.
 
 ## 📝Consultando a Documentação da API
-Acessa o arquivo swagger da aplicação pelo link: [api-docs.json](src%2Fmain%2Fresources%2Fapi-docs.json)
+Acessa o arquivo swagger da aplicação pelo link: [api-docs.json](https://github.com/schinyder/TechChallengeFase5/tree/main/SwaggerDocs)
 
 Basta colar o documento no site: [Swagger Editor](https://editor.swagger.io/)
 
