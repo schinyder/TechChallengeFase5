@@ -64,7 +64,7 @@ Importante: para consultar todas as opções de APIs, favor acessar a collection
 ## 📐Diagrama de arquitetura:
 ![ArchitectureDiagram.png](https://raw.githubusercontent.com/schinyder/TechChallengeFase5/main/ArchitectureDiagram.png?token=GHSAT0AAAAAACVFLWN3N7ZZMSHKA5KCZQSWZU6XLGA)
 
-## novo
+## novo2
 
 
 ## 🎯 Desafios
