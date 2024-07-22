@@ -62,7 +62,7 @@ Importante: para consultar todas as opções de APIs, favor acessar a collection
 - Pagamento (Simulação): Serviço para simular o processo de pagamento.
 
 ## 📐Diagrama de arquitetura:
-![ArchitectureDiagram.png](https://raw.githubusercontent.com/schinyder/TechChallengeFase5/main/ArchitectureDiagram.png?token=GHSAT0AAAAAACVFLWN3N7ZZMSHKA5KCZQSWZU6XLGA)
+![ArchitectureDiagram.png](https://github.com/schinyder/TechChallengeFase5/blob/main/ArchitectureDiagram.png)
 
 ## novo2
 
